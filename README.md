@@ -1,4 +1,4 @@
-##### Airplane Ticket Reservation System
+##### AirplaneTicketReservationSystem
 
 ## Overview
 
