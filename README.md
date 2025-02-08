@@ -1,10 +1,10 @@
-Airplane Ticket Reservation System
+###Airplane Ticket Reservation System###
 
-Overview
+##Overview##
 
 The Airplane Ticket Reservation System is a full-stack web application built using Java, AWS, and Spring Boot. The system allows users to search for flights, select seats, make reservations, and process payments. The project aims to provide a seamless and efficient experience for booking airline tickets online.
 
-Features
+##Features##
 
 User Authentication: Secure login and registration for customers.
 
@@ -30,9 +30,9 @@ Cloud Services: AWS S3 (for storing documents/images), AWS Lambda (for serverles
 
 Authentication: Spring Security, JWT
 
-Setup Instructions
+###Setup Instructions###
 
-Prerequisites:
+##Prerequisites:##
 
 Java 17+
 
